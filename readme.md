@@ -57,7 +57,7 @@ The simulator uses a Rubik's Cube analogy:
 
 ### Glucose Level Calculation Model
 Glucose levels are calculated using the formula:  
-![Formula](media/image1.png)  
+![image](https://github.com/user-attachments/assets/7552599a-d45f-462a-bd62-d11d39ee6b94)  
 Where:
 - **carbs**: Carbohydrate amount (g).
 - **glycemic_load**: Glycemic load (GL).
